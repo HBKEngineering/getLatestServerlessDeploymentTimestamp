@@ -1,0 +1,25 @@
+{
+  "name": "get-latest-serverless-deployment-timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "get-latest-serverless-deployment-timestamp": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HBKEngineering/getLatestServerlessDeploymentTimestamp.git"
+  },
+  "author": "Brett Neese, HBK Engineering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HBKEngineering/getLatestServerlessDeploymentTimestamp/issues"
+  },
+  "homepage": "https://github.com/HBKEngineering/getLatestServerlessDeploymentTimestamp#readme",
+  "dependencies": {
+    "serverless": "^1.26.1"
+  }
+}
